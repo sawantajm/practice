@@ -14,6 +14,8 @@ namespace practice
             var mont =12 - dob.Month;
             var day = noedate.Day - dob.Day;
             Console.WriteLine(year+" Years "+mont+" Month "+day +" Day ");
+            
+            Console.WriteLine(" Hii All Of You");
         }
     }
 }

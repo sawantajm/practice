@@ -1,0 +1,16 @@
+1. Display the fullname of the employee
+2. Display the customer details who has Fax number
+3. display the customer details whose name holds second letter as U
+4. select order Details where unit price is greater than 10 and less than 20
+5. Display order details which contains shipping date and arrange the order by date
+6. Print the orders shipped by ship name 'La corne d'abondance' between 2 dates(Choose dates
+of your choice)
+7. Print the products supplied by 'Exotic Liquids'
+8. print the average quantity ordered for every product
+9. Print all the Shipping company name and the ship names if they are operational
+10. Print all Employees with Manager Name
+11. Print the bill for a given order id .bill should contain Productname,
+Categoryname,price after discount
+12. Write a procedure that determines the customer who has placed the maximum
+number of orders
+13. Write a procedure to display the list of products that are out of stock

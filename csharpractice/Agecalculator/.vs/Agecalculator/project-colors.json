@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2f36801f-1bd5-4225-bc01-0290a6a9e066": {
+      "ProjectGuid": "2f36801f-1bd5-4225-bc01-0290a6a9e066",
+      "DisplayName": "Agecalculator",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b1be63c7-0afb-4099-b686-d594f742d3f7": {
+      "ProjectGuid": "b1be63c7-0afb-4099-b686-d594f742d3f7",
+      "DisplayName": "FileOperation",
+      "ColorIndex": 1
+    },
+    "94d0fb18-206b-4789-a0cc-7cf42b6d6045": {
+      "ProjectGuid": "94d0fb18-206b-4789-a0cc-7cf42b6d6045",
+      "DisplayName": "Array",
+      "ColorIndex": 2
+    },
+    "a6915e3c-bfd5-4bbd-ba7a-d44c4c2d21c4": {
+      "ProjectGuid": "a6915e3c-bfd5-4bbd-ba7a-d44c4c2d21c4",
+      "DisplayName": "Agecalculator1",
+      "ColorIndex": 3
+    },
+    "06598364-b5b9-4a60-926f-8c3baf1e58ed": {
+      "ProjectGuid": "06598364-b5b9-4a60-926f-8c3baf1e58ed",
+      "DisplayName": "codilityproblem",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

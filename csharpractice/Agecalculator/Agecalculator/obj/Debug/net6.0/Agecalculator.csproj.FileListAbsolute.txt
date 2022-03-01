@@ -1,0 +1,15 @@
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\bin\Debug\net6.0\Agecalculator.exe
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\bin\Debug\net6.0\Agecalculator.deps.json
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\bin\Debug\net6.0\Agecalculator.runtimeconfig.json
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\bin\Debug\net6.0\Agecalculator.dll
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\bin\Debug\net6.0\ref\Agecalculator.dll
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\bin\Debug\net6.0\Agecalculator.pdb
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\obj\Debug\net6.0\Agecalculator.csproj.AssemblyReference.cache
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\obj\Debug\net6.0\Agecalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\obj\Debug\net6.0\Agecalculator.AssemblyInfoInputs.cache
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\obj\Debug\net6.0\Agecalculator.AssemblyInfo.cs
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\obj\Debug\net6.0\Agecalculator.csproj.CoreCompileInputs.cache
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\obj\Debug\net6.0\Agecalculator.dll
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\obj\Debug\net6.0\ref\Agecalculator.dll
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\obj\Debug\net6.0\Agecalculator.pdb
+F:\LTI Training\csharpractice\Agecalculator\Agecalculator\obj\Debug\net6.0\Agecalculator.genruntimeconfig.cache

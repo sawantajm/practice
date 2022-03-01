@@ -1,4 +1,4 @@
-1. Display the fullname of the employee
+1. Display the fullname of the employee 
 2. Display the customer details who has Fax number
 3. display the customer details whose name holds second letter as U
 4. select order Details where unit price is greater than 10 and less than 20
@@ -14,3 +14,4 @@ Categoryname,price after discount
 12. Write a procedure that determines the customer who has placed the maximum
 number of orders
 13. Write a procedure to display the list of products that are out of stock
+print the all details of product
